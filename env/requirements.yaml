@@ -2,6 +2,9 @@ dependencies:
 - name: atsea-main-app-shah
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.49
+- name: devhub-tmp-cnu-codefix-uploader-go
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.76
 - alias: expose
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
